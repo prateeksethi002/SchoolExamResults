@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="year_array">
+        <item>Select Year</item>
+    </string-array>
+    <string-array name="exam_array">
+        <item>Select Exam</item>
+    </string-array>
+</resources>
